@@ -5,7 +5,7 @@ import {THEME} from '../constants';
 
 const options = {
     id: THEME.EXAMPLE_ID,
-    name: THEME.EXAMPLE_ID,
+    name: 'example',
     primaryColor: primary['500'],
     secondaryColor: secondary['500'],
     errorColor: error['500']
